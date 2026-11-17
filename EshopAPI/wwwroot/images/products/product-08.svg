@@ -1,0 +1,16 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600' viewBox='0 0 600 600'>
+  <defs>
+    <linearGradient id='bg' x1='0' x2='1' y1='0' y2='1'>
+      <stop offset='0%' stop-color='#0f172a'/>
+      <stop offset='100%' stop-color='#7c2d12'/>
+    </linearGradient>
+  </defs>
+  <rect width='600' height='600' fill='url(#bg)'/>
+  <circle cx='98' cy='84' r='56' fill='white' opacity='0.08'/>
+  <circle cx='500' cy='500' r='84' fill='white' opacity='0.06'/>
+  <rect x='56' y='430' width='488' height='116' rx='30' fill='white' opacity='0.12'/>
+  <text x='58' y='76' fill='white' font-size='24' font-family='Segoe UI, Arial, sans-serif' font-weight='700' letter-spacing='2'>E-SHOP</text>
+  <path d='M225 220c36 0 65 29 65 65v70c0 36-29 65-65 65h-10v-70h10c14 0 25-11 25-25v-40c0-14-11-25-25-25h-10v-40z' fill='#fb923c'/><path d='M375 220c-36 0-65 29-65 65v70c0 36 29 65 65 65h10v-70h-10c-14 0-25-11-25-25v-40c0-14 11-25 25-25h10v-40z' fill='#fb923c'/>
+  <text x='58' y='476' fill='white' font-size='18' font-family='Segoe UI, Arial, sans-serif' opacity='0.92'>PREMIUM PRODUCT</text>
+  <text x='58' y='512' fill='white' font-size='28' font-family='Segoe UI, Arial, sans-serif' font-weight='800'>Echo Pro Earbuds</text>
+</svg>
